@@ -1,0 +1,1 @@
+This directory contains codes for the functioning of the robot. The robot was run using an arduino-uno. So the programs are written in C using the arduino-uno's modules.
